@@ -24,6 +24,9 @@ http://gazebosim.org/
 ArduPilot Autopilot
 http://ardupilot.org
 
+Intel Aero
+https://github.com/intel-aero/meta-intel-aero/wiki/01-About-Intel-Aero
+
 Common Misconceptions in Aerodynamics
 https://youtu.be/QKCK4lJLQHU
 
