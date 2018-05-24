@@ -42,3 +42,6 @@ https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
 Computer Vision with Intel Movidius NCS
 https://www.pyimagesearch.com/2018/02/19/real-time-object-detection-on-the-raspberry-pi-with-the-movidius-ncs/
 
+Dual Motion GAN for Future-Flow Embedded Video Prediction
+https://pdfs.semanticscholar.org/e25d/b280f112778fd350fd4237b0ecc8b17d32a9.pdf
+
