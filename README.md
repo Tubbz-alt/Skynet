@@ -45,3 +45,11 @@ https://www.pyimagesearch.com/2018/02/19/real-time-object-detection-on-the-raspb
 Dual Motion GAN for Future-Flow Embedded Video Prediction
 https://pdfs.semanticscholar.org/e25d/b280f112778fd350fd4237b0ecc8b17d32a9.pdf
 
+Paparazzi: how to make a swarm of Parrot AR Drones fly autonomously based on GPS.
+https://www.semanticscholar.org/paper/Paparazzi%3A-how-to-make-a-swarm-of-Parrot-AR-Drones-Remes-Hensen/5ca8452687096e3f2a6e2f33bf514a5a055c8819
+
+SkyNET: A 3G-Enabled Mobile Attack Drone and Stealth Botmaster
+https://www.semanticscholar.org/paper/SkyNET%3A-A-3G-Enabled-Mobile-Attack-Drone-and-ReedGeis/ffc72273f12edb7a4b16d753dd06466514a260c4
+
+The Flying Sidekick Traveling Salesman Problem: Optimization of Drone-assisted Parcel Delivery
+https://www.semanticscholar.org/paper/The-Flying-Sidekick-Traveling-Salesman-Problem%3A-of-Chu/f569ae7648317501a82c8d39cd219fc3b56265a7
