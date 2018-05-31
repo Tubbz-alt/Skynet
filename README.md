@@ -21,6 +21,9 @@ http://www.ros.org/
 Gazebo Robot Simulator
 http://gazebosim.org/
 
+MORSE: the Modular Open Robots Simulator Engine
+https://github.com/morse-simulator/morse
+
 ArduPilot Autopilot
 http://ardupilot.org
 
