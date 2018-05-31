@@ -24,6 +24,9 @@ http://gazebosim.org/
 MORSE: the Modular Open Robots Simulator Engine
 https://github.com/morse-simulator/morse
 
+V-REP robot simulator
+http://www.coppeliarobotics.com/
+
 ArduPilot Autopilot
 http://ardupilot.org
 
