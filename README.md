@@ -59,3 +59,6 @@ https://www.semanticscholar.org/paper/SkyNET%3A-A-3G-Enabled-Mobile-Attack-Drone
 
 The Flying Sidekick Traveling Salesman Problem: Optimization of Drone-assisted Parcel Delivery
 https://www.semanticscholar.org/paper/The-Flying-Sidekick-Traveling-Salesman-Problem%3A-of-Chu/f569ae7648317501a82c8d39cd219fc3b56265a7
+
+PRENEU UAV / Drone
+http://www.preneu.co.kr/en/uav/uav_01.html
