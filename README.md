@@ -62,3 +62,6 @@ https://www.semanticscholar.org/paper/The-Flying-Sidekick-Traveling-Salesman-Pro
 
 PRENEU UAV / Drone
 http://www.preneu.co.kr/en/uav/uav_01.html
+
+Dronecode - The Open Source UAV Platform
+https://www.dronecode.org/
